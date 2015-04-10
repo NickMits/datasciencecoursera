@@ -1,2 +1,2 @@
 # datasciencecoursera
-This is for the second part of the course
+This is for the second part of the project

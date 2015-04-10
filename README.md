@@ -1,2 +1,3 @@
 # datasciencecoursera
-This is for the second and third parts of the project.
+* This is for the second part of the project.
+* It also contains the HelloWorld.md.
